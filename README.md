@@ -1,12 +1,8 @@
 <h1>Bootstrap Stopwatch</h1>
-<hr>
+<h2>a simple js stopwatch styled with bootstrap</h2>
 
-This page is written in PHP, but has no official reason to be at this point. <br>
 
-<code>header.php</code> can be converted to <code>index.html</code> to avoid needing all the other gunk PHP requires.<br>
-If you do this just make sure you rename <code>index.php</code> to something that won't affect anything, and make sure to close the body and html tags.
-
-<strong>See live preview at</strong> http://sollenne.com/projects/stopwatch
+<strong>See live preview at</strong> http://sollenne.com/projects/bootstrap-stopwatch
 
 <h3>This pack utilizes:</h3 <br>
 - <strong>twitter bootstrap</strong> <br>
