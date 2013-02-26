@@ -1,0 +1,67 @@
+/**
+ * All your custom CSS should go into this file
+ */
+
+body {
+   padding-top: 15px;
+}
+
+.center{
+ margin-left: auto !important;
+  margin-right: auto !important;
+ float: none !important;
+ text-align: center;
+}
+
+.hidden{
+	visibility:visible;
+
+}
+
+.pointable{ 
+cursor: hand; cursor: pointer; 
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+}
+
+.scrollable {
+	height: 10em;
+	overflow: auto;
+}
+
+.paused{
+	color:orange;
+}
+
+#timeTable td, #timeTable th{
+	font-weight:bold;
+	font-size:200%;
+}
+
+.lapCount{
+	text-align:right !important;
+}
+@media only screen
+and (min-device-width : 320px)
+{
+/* Styles */
+	#time{
+		font-size:5rem;
+		margin: 30px 0px 40px;
+	}
+
+}
+@media only screen
+and (min-device-width : 768px)
+{
+/* Styles */
+	#time{
+		font-size:10rem !important;
+		margin:5px 0 5px 0; padding: 50px 0px 80px 0px;
+	}
+
+}
