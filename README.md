@@ -2,7 +2,7 @@
 <h2>a simple js stopwatch styled with bootstrap</h2>
 
 
-<strong>See live preview at</strong> http://sollenne.com/lab/bootstrap-stopwatch
+<strong>See live preview at</strong> http://sollenne.github.io/jcp/stopwatch/
 
 <h3>This pack utilizes:</h3 <br>
 - <strong>twitter bootstrap</strong> <br>
